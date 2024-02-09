@@ -10,4 +10,9 @@ Authors - Juan1ta-C, rnjogu205
 5. it is secure and private
 
 ##Working Locally
+1. You always have to add and commit changes to keep files updated
+2. You can branch out of main to try different things then merge
+3. You can restore and reset commits in git
+4. You can make personal workspaces git folders
+5. You can clone a repo to local space
 >>>>>>> d55c1b3dacf141f61ea630dee87eff5256a5502b
